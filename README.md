@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 Currently Working On: IntelliSpend – an AI-powered fintech expense management app.<br><br>🤝 Looking to Collaborate On: Flutter and Golang projects.<br><br>❓ Looking for Help With: Cloud computing and storage solutions.<br><br>📚 Currently Learning: Cloud technologies, focusing on scalability and deployment.<br><br>💡 Ask Me About: Flutter, Golang, and app development.<br><br>😄 Fun Fact: I started coding with C++, but now I juggle between Flutter and Go like a pro! 🚀
+🚀 Currently Working On: Hangukverse –you can find it on play store and app store.<br><br>🤝 Looking to Collaborate On: Flutter and Golang projects.<br><br>❓ Looking for Help With: Cloud computing and storage solutions.<br><br>📚 Currently Learning: Cloud technologies, focusing on scalability and deployment.<br><br>💡 Ask Me About: Flutter, Golang, and app development.<br><br>😄 Fun Fact: I started coding with C++, but now I juggle between Flutter and Go like a pro! 🚀
 
 
 ## 🌐 Socials:
