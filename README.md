@@ -84,19 +84,7 @@ Currently designing and building a **distributed task orchestration engine** wit
 
 ---
 
-## GitHub Stats
 
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=Yash05080&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)
-
-![](https://nirzak-streak-stats.vercel.app/?user=Yash05080&theme=gotham&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yash05080&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-</div>
-
----
 
 ## Currently Learning
 
@@ -106,6 +94,4 @@ Currently designing and building a **distributed task orchestration engine** wit
 
 ---
 
-<div align="center">
-  <sub>Open to SDE full-time roles starting 2026 · Flutter · Go · Distributed Systems</sub>
-</div>
+
